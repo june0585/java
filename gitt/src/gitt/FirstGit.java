@@ -3,7 +3,7 @@ package gitt;
 public class FirstGit {
 
 	public static void main(String[] args) {
-		System.out.print("标标标");
+		System.out.print("鞗办淮 Git");
 	}
 
 }
